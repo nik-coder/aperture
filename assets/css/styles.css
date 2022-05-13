@@ -1,0 +1,36 @@
+@media (min-width: 768px) {
+  #desktop-width {
+    width: 500px !important;
+  }
+}
+
+@media (min-width: 300px) {
+  #desktop-width {
+    width: 90%;
+  }
+}
+
+@media (min-width: 300px) {
+  #give-now {
+    margin-left: 20px !important;
+  }
+}
+
+@media (min-width: 768px) {
+  #give-now {
+    margin-left: 0px !important;
+  }
+}
+
+@media (min-width: 300px) {
+  #tell-friends {
+    margin-left: 20px !important;
+  }
+}
+
+@media (min-width: 768px) {
+  #tell-friends {
+    margin-left: 0px !important;
+  }
+}
+
